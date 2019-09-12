@@ -1,7 +1,7 @@
 Migrasi File API Remit H2H
 
-Development IP: 192.168.131.36
-Production IP: 192.168.136.148
+Development IP: 192.168.131.36 (kaimana)
+Production IP: 192.168.136.148 (calang)
 
 Development folder: /home/www/html/devofc/Remittance/FinnetRemittance
 Production folder: /home/www/html/remittance
