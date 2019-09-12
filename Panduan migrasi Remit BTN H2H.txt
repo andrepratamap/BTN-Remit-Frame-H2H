@@ -7,5 +7,6 @@ Development folder: /home/www/html/devofc/Remittance/FinnetRemittance
 Production folder: /home/www/html/remittance
 1. routeX.php
 2. wsSetting.property
+3. provisioning database FCuser table FEEADM, MAPP_REMIT, MAP_FEEADM, WSUSERS, REMIT_ROUTE
 
 notes: Mohon backup file production yang akan dieksekusi untuk keperluan rollback
