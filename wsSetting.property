@@ -1,0 +1,10 @@
+eva=http://192.168.136.130/maya/index.php?wsdl
+altoc2c=http://new.alto-network.com/soapserver_cash/transfercash.wsdl
+altoc2a=http://new.alto-network.com/soapserver/transfer_finnet.wsdl
+bris2ca=https://10.4.4.68/jets-delima/HttpPpobTransaction.action?TrxType
+ebaysc2c=http://192.168.135.10:8021/webservicess/intfRemittServices-service.serviceagent?wsdl
+ebaysc2a=http://192.168.135.10:8021/webservicess/intfRemittServices-service.serviceagent?wsdl
+bnic2a=http://192.168.135.10:8021/webservicess/intfRemittServices-service.serviceagent?wsdl
+switchc2a=http://192.168.135.10:8021/webservicess/intfRemittServices-service.serviceagent?wsdl
+tcash=http://192.168.135.10:8021/webservicess/intfRemittServices-service.serviceagent?wsdl
+framec2a=http://192.168.131.21:40000/COREPROC/intfProcessBiller-service.serviceagent?wsdl
