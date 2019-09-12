@@ -1,0 +1,11 @@
+Migrasi File API Remit H2H
+
+Development IP: 192.168.131.36
+Production IP: 192.168.136.148
+
+Development folder: /home/www/html/devofc/Remittance/FinnetRemittance
+Production folder: /home/www/html/remittance
+1. routeX.php
+2. wsSetting.property
+
+notes: Mohon backup file production yang akan dieksekusi untuk keperluan rollback
